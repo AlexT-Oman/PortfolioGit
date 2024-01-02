@@ -1,0 +1,27 @@
+body{
+    background-color: lightslategray;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.container{
+    text-align: center;
+}
+
+.playerOne, .playerTwo{
+    margin: 0px 100px;
+    display: inline-block;
+}
+
+h1{
+    font-size: 6rem;
+    margin: 0px 0px 50px 0px;
+}
+
+h2{
+    font-size: 2rem;
+}
+
+.reset{
+    padding-top: 50px;
+    text-align: center;
+}
